@@ -1,0 +1,1 @@
+export const isTrue = (val: boolean) => val
